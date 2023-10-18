@@ -1,0 +1,2 @@
+C:\Code\C#\Project\Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Code\C#\Project\Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
